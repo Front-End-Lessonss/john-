@@ -1,0 +1,36 @@
+.navigation-bar{
+    padding:30px 100px;
+    text-align: end;
+}
+.navigation-bar a{
+    text-decoration: none;
+    font-size:20px;
+    color:#000;
+    font-weight:700;
+    margin-right: 20px;
+}
+
+.introduction{
+    padding:50px 100px;
+}
+.introduction h1{
+    color:#21243D;
+    font-size:44px;
+}
+.introduction p{
+    color:#21243D;
+    margin-top:30px;
+}
+.introduction .left-side {
+    margin-top:15px
+}
+.introduction .left-side a{
+    text-decoration: none;
+    color:#fff;
+    padding:10px 20px;
+    font-size:20px;
+    background-color:#FF6464;
+    border-radius:5px;
+    display: inline-block;
+    margin-top:10px
+}
